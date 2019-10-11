@@ -1,0 +1,23 @@
+html{
+    background-color: beige;
+    color: brown;
+}
+div{
+    color: darkblue;
+}
+
+.headlines{
+    color: darkcyan;
+}
+#title{
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: palevioletred;
+}
+.subtitles{
+    color: red;
+}
+.content{
+    font-size: 1.15em;
+    
+}
